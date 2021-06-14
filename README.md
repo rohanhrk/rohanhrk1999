@@ -4,15 +4,15 @@ I am an undergraduate student at NIT Silchar pursuing his bachelor's in Electric
 
 # Technologies
 
-✔️ C/C++
-✔️ Java
-✔️ Data structure & algorithm
-✔️ JavaScript
-✔️ Node js
-✔️ Web Scrapping
-✔️ automation
-✔️ puppeteer
-✔️ Html
-✔️ CSS
-✔️ DOM
-✔️ jQuery
+    ✔️ C/C++
+    ✔️ Java
+    ✔️ Data structure & algorithm
+    ✔️ JavaScript
+    ✔️ Node js
+    ✔️ Web Scrapping
+    ✔️ automation
+    ✔️ puppeteer
+    ✔️ Html
+    ✔️ CSS
+    ✔️ DOM
+    ✔️ jQuery
