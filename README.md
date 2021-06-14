@@ -4,16 +4,22 @@ I am an undergraduate student at NIT Silchar pursuing his bachelor's in Electric
 
 # Technologies
 
-    ✔️ C/C++
-    ✔️ Java
-    ✔️ Data structure & algorithm
-    ✔️ JavaScript
-    ✔️ Node js
-    ✔️ Web Scrapping
-    ✔️ automation
-    ✔️ puppeteer
-    ✔️ Html
-    ✔️ CSS
-    ✔️ DOM
-    ✔️ jQuery
-    ✔️ React
+✔️ C/C++
+✔️ Java
+✔️ Data structure & algorithm
+✔️ JavaScript
+✔️ Node js
+✔️ Web Scrapping
+✔️ automation
+✔️ puppeteer
+✔️ Html
+✔️ CSS
+✔️ DOM
+✔️ jQuery
+✔️ React
+
+# Contact Me
+
+Linkedin- www.linkedin.com/in/rohan-hazarika
+
+gmail: rohan_ug@ee.nits.ac.in
