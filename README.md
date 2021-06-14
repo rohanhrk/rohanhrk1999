@@ -16,3 +16,4 @@ I am an undergraduate student at NIT Silchar pursuing his bachelor's in Electric
     ✔️ CSS
     ✔️ DOM
     ✔️ jQuery
+    ✔️ React
